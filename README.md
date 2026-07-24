@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
 ## Simulation
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
