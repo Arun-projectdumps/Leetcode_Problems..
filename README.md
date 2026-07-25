@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
