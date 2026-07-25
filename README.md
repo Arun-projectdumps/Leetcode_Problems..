@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1822-sign-of-the-product-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
