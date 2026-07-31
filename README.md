@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0151-reverse-words-in-a-string) |
 ## Hash Table
 |  |
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
