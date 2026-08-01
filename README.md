@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1822-sign-of-the-product-of-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
+| [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
