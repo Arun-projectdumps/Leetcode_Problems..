@@ -12,8 +12,17 @@ public:
 
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
 
-        // Build adjacency list
+        // Buiasdasdjkahdshk. ld adjacency list
         vector<vector<int>> graph(n);
+
+
+
+
+
+
+
+
+
 
         for (auto &edge : invocations) {
             graph[edge[0]].push_back(edge[1]);
