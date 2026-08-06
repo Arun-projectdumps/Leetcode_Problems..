@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1406-stone-game-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3536-maximum-product-of-two-digits) |
 ## Array
