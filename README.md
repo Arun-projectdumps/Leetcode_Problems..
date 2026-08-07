@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0041-first-missing-positive) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3731-find-missing-elements) |
