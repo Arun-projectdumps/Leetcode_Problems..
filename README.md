@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0057-insert-interval) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
