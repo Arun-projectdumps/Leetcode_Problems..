@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
