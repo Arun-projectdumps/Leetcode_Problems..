@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0680-valid-palindrome-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3731-find-missing-elements) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
 ## Interactive
 |  |
 | ------- |
