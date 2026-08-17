@@ -21,6 +21,10 @@ public:
         for(int i = 1 ; i < nums.size()-1;i++){
             ans[i] = pre[i-1]*post[i+1];
         }
+        pre.clear();
+        pre.shrink_to_fit();
+        post.clear();
+        post.shrink_to_fit();
         return ans;
     }
 };
