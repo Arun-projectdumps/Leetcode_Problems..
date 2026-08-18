@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3731-find-missing-elements) |
@@ -234,5 +236,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
