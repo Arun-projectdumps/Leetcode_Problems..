@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0033-search-in-rotated-sorted-array) |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
