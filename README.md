@@ -204,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0404-sum-of-left-leaves) |
 | [3310-remove-methods-from-project](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
