@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0151-reverse-words-in-a-string) |
+| [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
+| [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
