@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0212-word-search-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
