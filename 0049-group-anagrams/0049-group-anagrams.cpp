@@ -1,18 +1,30 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        /*this question was solved using hashmaps (key,value) 
-        here we can use the sorted string, the sorted string of all anagram groups will be the same they can be used as a key and the value can have the data type vector<string> to store the actual groups  */
-        unordered_map<string,vector<string>> mp;
-        vector<vector<string>> ans;
-        for(string i : strs){
-            string ssorted = i;
-            sort(ssorted.begin(),ssorted.end());
-            mp[ssorted].push_back(i);
+        vector<vector<string>> gA;
+        unordered_map<string, vector<int>> mp;
+
+        if (strs.empty()) {
+            return gA;
         }
-        for(auto &x : mp){
-            ans.push_back(move(x.second));
+
+        for (int x = 0; x < strs.size(); x++) {
+            string key = strs[x];
+            sort(key.begin(), key.end());
+
+            mp[key].push_back(x);
         }
-        return ans;
-      }
+
+        for (auto& pair : mp) {
+            vector<string> group;
+
+            for (int j = 0; j < pair.second.size(); j++) {
+                group.push_back(strs[pair.second[j]]);
+            }
+
+            gA.push_back(group);
+        }
+
+        return gA;
+    }
 };
