@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0877-stone-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0704-binary-search) |
 ## Simulation
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0438-find-all-anagrams-in-a-string) |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -313,4 +318,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
