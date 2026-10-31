@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Arun-projectdumps/Leetcode_Problems../tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
